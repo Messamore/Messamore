@@ -1,6 +1,6 @@
 # Messa, Software Developer
 
-## About Me
+## About Me.
 
 ### 🐍 Focused Python Developer.
 ### 🎓 Education
